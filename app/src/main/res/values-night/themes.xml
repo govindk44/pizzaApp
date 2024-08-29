@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pizzeria" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- No thanks -->
+    </style>
+
+    <!-- Main application theme extending the base theme -->
+    <style name="Theme.Pizzeria" parent="Base.Theme.Pizzeria" />
+</resources>
